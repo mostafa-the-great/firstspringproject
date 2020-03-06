@@ -1,0 +1,10 @@
+com/mostafa/projects/config/DocketConfig.class
+com/mostafa/projects/repository/StudentRepository.class
+com/mostafa/projects/service/StudentService.class
+com/mostafa/projects/Application.class
+com/mostafa/projects/web/StudentController.class
+com/mostafa/projects/model/Student.class
+com/mostafa/projects/service/StudentServiceConfig.class
+com/mostafa/projects/model/Student$Builder.class
+com/mostafa/projects/repository/MongoDbStudentRepository.class
+com/mostafa/projects/config/MongoConfig.class
